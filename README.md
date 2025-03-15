@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, Eu sou Gabriel de Jesus
 
 Eu sou o Gabriel De Jesus, sou um Progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
