@@ -39,10 +39,8 @@ Me chamo Gabriel de Jesus Silva, tenho 18 anos e sou natural da Bahia. Atualment
 
 ### 📊 Estatisticas
 
-<div padding-right="20px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljesus18&show_icons=true&theme=tokyonight )
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljesus18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljesus18&show_icons=true&theme=tokyonight&layout=compact"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljesus18&show_icons=true&theme=tokyonight&layout=compact)
 
-</div>
