@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Gabriel de Jesus Silva, tenho 18 anos e sou natural da Bahia. Atualmente, estou no curso de Progamadores chamado DevClub. Sou uma pessoa apaixonada por tecnologia e cada dia mais venho me esforçando para aprender e me especializar nessa área.
+Eu me chamo Gabriel de Jesus Silva, tenho 18 anos e sou natural da Bahia. Atualmente, estou no curso de Progamadores chamado DevClub. Sou uma pessoa apaixonada por tecnologia e cada dia mais venho me esforçando para aprender e me especializar nessa área.
 
 ---
 
