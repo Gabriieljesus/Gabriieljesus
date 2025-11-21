@@ -1,40 +1,52 @@
-# 🧑‍💻 Gabriel de Jesus 
+# 🧑‍💻 Gabriel de Jesus
 
 **`Desenvolvedor Full Stack`**
 
-
-👋 Olá, meu nome é Gabriel De Jesus Silva,
+👋 Olá! Meu nome é Gabriel De Jesus Silva.  
 Bem-vindo(a) ao meu perfil do GitHub!
 
- Tenho 19 anos e sou natural da Bahia. Atualmente, estou no curso de Progamadores chamado DevClub. Sou uma pessoa apaixonada por tecnologia e cada dia mais venho me esforçando para aprender e me especializar nessa área.
+Tenho 19 anos e sou natural da Bahia. Atualmente, estou no curso de Programadores DevClub. Sou apaixonado por tecnologia e venho me dedicando diariamente para aprender e evoluir nessa área.
 
-🧠 Estou aprendendo ativamente no DevClub , liderado pelo instrutor Rodolfo Mori , onde estou adquirindo sólida experiência em:
+---
 
-HTML,
-CSS e JavaScript
-Node.js e Express
-React.js
-Git e GitHub
-Bancos de dados (PostgreSQL)
-🚀 Projetos em destaque
-🔗 DevBurger (Fullstack)
+## 🧠 Tecnologias que estou aprendendo
 
-Um sistema de gerenciamento de pedidos de hambúrgueres com autenticação, painel administrativo, integração com banco de dados e interface de usuário moderna.
+No DevClub, liderado pelo instrutor Rodolfo Mori, estou adquirindo sólida experiência em:
 
-🔗 Sistema de Registro de Usuários
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js e Express  
+- React.js  
+- Git e GitHub  
+- PostgreSQL
 
-Um aplicativo CRUD desenvolvido com React e Node.js, incluindo login de usuário e validação de formulários.
+---
 
-📚 Sempre aprendendo
-Além de projetos práticos, estou constantemente revisando conteúdo e aprendendo as melhores práticas. Meu objetivo é construir sistemas reais, escaláveis ​​e eficientes.
+## 🚀 Projetos em destaque
 
-🤝 Vamos nos conectar
-📧 E-mail: developer.gabrieljesus.com
-💼 LinkedIn: https://www.linkedin.com/in/gabrieljesus-silva/
+### 🔗 DevBurger (Fullstack)
+Sistema completo de gerenciamento de pedidos de hambúrguer, com painel administrativo, autenticação, integração com banco de dados e interface moderna.
+
+### 🔗 Sistema de Registro de Usuários
+Aplicação CRUD desenvolvida com React e Node.js, incluindo login e validação de formulários.
+
+---
+
+## 📚 Sempre aprendendo
+Além dos projetos práticos, estou constantemente estudando novas tecnologias e melhores práticas, buscando criar sistemas reais, escaláveis e eficientes.
+
+---
+
+## 🤝 Vamos nos conectar
+
+📧 E-mail: developer.gabrieljesus@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/gabrieljesus-silva/  
 🌐 Portfólio: em breve
 
-### 📊 Estatisticas
+---
 
+## 📊 Estatísticas
 
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriieljesus&show_icons=true&theme=tokyonight&layout=compact"/>
