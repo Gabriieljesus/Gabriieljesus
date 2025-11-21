@@ -2,40 +2,36 @@
 
 **`Desenvolvedor Full Stack`**
 
-Eu me chamo Gabriel de Jesus Silva, tenho 18 anos e sou natural da Bahia. Atualmente, estou no curso de Progamadores chamado DevClub. Sou uma pessoa apaixonada por tecnologia e cada dia mais venho me esforçando para aprender e me especializar nessa área.
 
----
+👋 Olá, meu nome é Gabriel De Jesus Silva,
+Bem-vindo(a) ao meu perfil do GitHub!
 
-### 🤖 Linguagens e Tecnologias
-<br/>
+ Tenho 19 anos e sou natural da Bahia. Atualmente, estou no curso de Progamadores chamado DevClub. Sou uma pessoa apaixonada por tecnologia e cada dia mais venho me esforçando para aprender e me especializar nessa área.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+🧠 Estou aprendendo ativamente no DevClub , liderado pelo instrutor Rodolfo Mori , onde estou adquirindo sólida experiência em:
 
-<br/>
+HTML,
+CSS e JavaScript
+Node.js e Express
+React.js
+Git e GitHub
+Bancos de dados (PostgreSQL)
+🚀 Projetos em destaque
+🔗 DevBurger (Fullstack)
+
+Um sistema de gerenciamento de pedidos de hambúrgueres com autenticação, painel administrativo, integração com banco de dados e interface de usuário moderna.
+
+🔗 Sistema de Registro de Usuários
+
+Um aplicativo CRUD desenvolvido com React e Node.js, incluindo login de usuário e validação de formulários.
+
+📚 Sempre aprendendo
+Além de projetos práticos, estou constantemente revisando conteúdo e aprendendo as melhores práticas. Meu objetivo é construir sistemas reais, escaláveis ​​e eficientes.
+
+🤝 Vamos nos conectar
+📧 E-mail: developer.gabrieljesus.com
+💼 LinkedIn: https://www.linkedin.com/in/gabrieljesus-silva/
+🌐 Portfólio: em breve
 
 ### 📊 Estatisticas
 
