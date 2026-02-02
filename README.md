@@ -2,53 +2,103 @@
 
 **`Desenvolvedor Full Stack`**
 
-👋 Olá! Meu nome é Gabriel De Jesus Silva.  
-Bem-vindo(a) ao meu perfil do GitHub!
+👋 Olá! Seja muito bem-vindo(a) ao meu GitHub!
 
-Tenho 19 anos e sou natural da Bahia. Atualmente, estou no curso de Programadores DevClub. Sou apaixonado por tecnologia e venho me dedicando diariamente para aprender e evoluir nessa área.
+Meu nome é **Gabriel de Jesus Silva**, tenho **19 anos**, sou natural da **Bahia** e sou apaixonado por tecnologia. Atualmente, estudo desenvolvimento **Full Stack** no **DevClub**, onde venho me dedicando diariamente para evoluir minhas habilidades e construir projetos cada vez mais completos e profissionais.
 
----
-
-## 🧠 Tecnologias que estou aprendendo
-
-No DevClub, liderado pelo instrutor Rodolfo Mori, estou adquirindo sólida experiência em:
-
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js e Express  
-- React.js  
-- Git e GitHub  
-- PostgreSQL
+Este repositório reúne meus estudos, projetos práticos e desafios técnicos, todos focados em boas práticas, organização de código e desenvolvimento de aplicações reais.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Sobre mim
 
-### 🔗 DevBurger (Fullstack)
-Sistema completo de gerenciamento de pedidos de hambúrguer, com painel administrativo, autenticação, integração com banco de dados e interface moderna.
-
-### 🔗 Sistema de Registro de Usuários
-Aplicação CRUD desenvolvida com React e Node.js, incluindo login e validação de formulários.
-
----
-
-## 📚 Sempre aprendendo
-Além dos projetos práticos, estou constantemente estudando novas tecnologias e melhores práticas, buscando criar sistemas reais, escaláveis e eficientes.
+* 🎯 Foco em desenvolvimento **Full Stack**
+* 📚 Estudante do **DevClub**, com orientação do instrutor Rodolfo Mori
+* 💡 Interesse em criar soluções eficientes, escaláveis e bem estruturadas
+* 🔁 Em constante aprendizado e evolução
 
 ---
 
-## 🤝 Vamos nos conectar
+## 🧠 Tecnologias e Ferramentas
 
-📧 E-mail: developer.gabrieljesus@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gabrieljesus-silva/  
-🌐 Portfólio: em breve
+Atualmente, trabalho e estudo as seguintes tecnologias:
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* TypeScript
+* Axios
+
+### Backend
+
+* Node.js
+* Express.js
+* API REST
+* PostgreSQL
+* MongoDB
+
+### Outras ferramentas
+
+* Git & GitHub
+* Insomnia
+* NPM / Yarn
 
 ---
 
-## 📊 Estatísticas
+## 🧩 Projetos em Destaque
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriieljesus&show_icons=true&theme=tokyonight&layout=compact"/>
+### 🍔 DevBurger — Full Stack
+
+Sistema completo para gerenciamento de pedidos de uma hamburgueria.
+
+**Funcionalidades:**
+
+* Autenticação de usuários
+* Painel administrativo
+* Cadastro e gerenciamento de produtos
+* Integração com banco de dados
+* Interface moderna e responsiva
+
+**Tecnologias:**
+React, Node.js, Express, PostgreSQL
+
+---
+
+### 👥 Sistema de Cadastro de Usuários
+
+Aplicação Full Stack com foco em operações CRUD.
+
+**Funcionalidades:**
+
+* Cadastro de usuários
+* Listagem de usuários
+* Integração frontend e backend
+* Validação de dados
+* Feedback visual com notificações
+
+**Tecnologias:**
+React, Node.js, Express, Axios, React Toastify
+
+---
+
+## 📚 Aprendizado Contínuo
+
+Estou sempre buscando aprimorar meus conhecimentos por meio de projetos práticos, desafios técnicos e estudos constantes. Meu objetivo é desenvolver aplicações reais, seguindo boas práticas de código, organização e arquitetura.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+📧 **E-mail:** [developer.gabrieljesus@gmail.com](mailto:developer.gabrieljesus@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/gabrieljesus-silva](https://www.linkedin.com/in/gabrieljesus-silva/)
+🌐 **Portfólio:** Em breve 🚧
+
+---
+
+⭐ Se gostou de algum projeto, fique à vontade para deixar uma estrela ou entrar em contato!
+
 
 
