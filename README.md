@@ -94,7 +94,7 @@ Estou sempre buscando aprimorar meus conhecimentos por meio de projetos prático
 
 📧 **E-mail:** [developer.gabrieljesus@gmail.com](mailto:developer.gabrieljesus@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/gabrieljesus-silva](https://www.linkedin.com/in/gabrieljesus-silva/)
-🌐 **Portfólio:** Em breve 🚧
+🌐 **Portfólio:** https://gabriel-jesus-portfoliodev.vercel.app/
 
 ---
 
