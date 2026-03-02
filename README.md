@@ -1,22 +1,23 @@
 # 🚀 Olá, eu sou o Gabriel de Jesus!
 ### Desenvolvedor Full Stack | Estudante DevClub 🎓
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=radical" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriieljesusI&layout=compact&langs_count=7&theme=radical" height="170em" alt="Top Languages" />
-</div>
-
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou um entusiasta de tecnologia de **19 anos**, natural da **Bahia** ☀️ e atualmente mergulhado no ecossistema **Full Stack** através do **DevClub**, sob mentoria do mestre Rodolfo Mori.
+Tenho 19 anos, sou natural da Bahia ☀️ e estou em transição profissional para a área de Desenvolvimento Full Stack.
 
-Minha meta é construir aplicações que não apenas funcionem, mas que sejam escaláveis, elegantes e resolvam problemas reais. Sou focado em **código limpo**, organização e aprendizado contínuo.
+Atualmente estou imerso no ecossistema JavaScript através do DevClub, aprofundando meus conhecimentos em **React, Node.js, APIs REST e Arquitetura de Software**.
 
-- 🔭 Atualmente trabalhando no projeto **DevBurger**
-- 📚 Estudando profundamente **TypeScript & Arquitetura de Software**
-- ⚡ Curiosidade: Apaixonado pela agilidade do ecossistema JavaScript
+Sou movido por evolução constante e disciplina. Busco escrever código limpo, organizado e escalável, sempre aplicando boas práticas e pensando como um desenvolvedor profissional.
+
+Minha experiência anterior no mercado de trabalho me ajudou a desenvolver responsabilidade, comunicação e foco em resultados — habilidades que hoje aplico diretamente no desenvolvimento de software.
+
+🎯 Objetivo: Conquistar minha primeira oportunidade como Desenvolvedor e crescer construindo soluções reais e impactantes.
+
+- 📚 Estudando **Arquitetura de Software e Boas Práticas no Backend**
+- 🚀 Foco em desenvolvimento Full Stack com JavaScript
+- ⚡ Sempre evoluindo em lógica, estruturação de projetos e performance
 
 ---
 
@@ -27,7 +28,6 @@ Minha meta é construir aplicações que não apenas funcionem, mas que sejam es
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,8 +46,8 @@ Minha meta é construir aplicações que não apenas funcionem, mas que sejam es
 
 | Projeto | Descrição | Techs | Link |
 | :--- | :--- | :--- | :--- |
-| **🍔 DevBurger** | Sistema Full Stack de pedidos com Painel Admin e Auth. | React, Node, Postgres | [Ver Repo](#) |
-| **👥 Cadastro de Users** | CRUD completo com feedback visual e integração de API. | React, Express, Axios | [Ver Repo](#) |
+| 🍔 DevBurger | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL | [Ver Repo](#) |
+| 👥 Cadastro de Users | CRUD completo com feedback visual e integração com API. | React, Express, Axios | [Ver Repo](#) |
 
 ---
 
@@ -65,6 +65,11 @@ Minha meta é construir aplicações que não apenas funcionem, mas que sejam es
   </a>
 </div>
 
-<br />
+---
 
-> "O sucesso não é o destino, é a jornada de aprendizado constante." 🚀
+### 📊 Estatísticas do GitHub
+
+<div >
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieljesus&layout=compact&langs_count=7&theme=radical" height="170" />
+</div>
