@@ -1,5 +1,5 @@
 # 🚀 Olá, eu sou o Gabriel de Jesus!
-### Desenvolvedor Full Stack | Estudante DevClub 🎓
+### Desenvolvedor Full Stack 🎓
 
 ---
 
@@ -7,7 +7,7 @@
 
 Tenho 19 anos, sou natural da Bahia ☀️ e estou em transição profissional para a área de Desenvolvimento Full Stack.
 
-Atualmente estou imerso no ecossistema JavaScript através do DevClub, aprofundando meus conhecimentos em **React, Node.js, APIs REST e Arquitetura de Software**.
+Atualmente estou imerso no ecossistema JavaScript através do DevClub, aprofundando meus conhecimentos em **React, Node.js,TypeScript, APIs REST e Arquitetura de Software**.
 
 Sou movido por evolução constante e disciplina. Busco escrever código limpo, organizado e escalável, sempre aplicando boas práticas e pensando como um desenvolvedor profissional.
 
@@ -15,7 +15,7 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 
 🎯 Objetivo: Conquistar minha primeira oportunidade como Desenvolvedor e crescer construindo soluções reais e impactantes.
 
-- 📚 Estudando **Arquitetura de Software e Boas Práticas no Backend**
+- 📚 Estudando **Boas Práticas no Desenvolvimento Web**
 - 🚀 Foco em desenvolvimento Full Stack com JavaScript
 - ⚡ Sempre evoluindo em lógica, estruturação de projetos e performance
 
@@ -28,6 +28,7 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,8 +38,6 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 
 #### **Ferramentas & Outros**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849be)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
