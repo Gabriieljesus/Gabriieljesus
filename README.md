@@ -2,8 +2,8 @@
 ### Desenvolvedor Full Stack | Estudante DevClub 🎓
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical" height="170em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=radical" height="170em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriieljesusI&layout=compact&langs_count=7&theme=radical" height="170em" alt="Top Languages" />
 </div>
 
 ---
