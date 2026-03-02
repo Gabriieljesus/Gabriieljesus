@@ -66,12 +66,3 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div >
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieljesus&layout=compact&langs_count=7&theme=radical" height="170" />
-</div>
