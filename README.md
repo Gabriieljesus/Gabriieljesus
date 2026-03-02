@@ -39,7 +39,7 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 #### **Ferramentas & Outros**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849be)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23CB3837.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
