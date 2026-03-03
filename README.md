@@ -55,9 +55,8 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 
 ### 📊 GitHub Stats
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriieljesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriieljesus&layout=compact&langs_count=7&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriieljesus&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriieljesus&theme=tokyonight)
 
 ### 🤝 Vamos conversar?
 
