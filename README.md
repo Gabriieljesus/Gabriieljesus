@@ -49,7 +49,7 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 | Projeto | Descrição | Techs | Link |
 | :--- | :--- | :--- | :--- |
 | 🍔 DevBurger | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL | [Ver Repo](#) |
-| 👥 Cadastro de Users | CRUD completo com feedback visual e integração com API. | React, Express, Axios | [Ver Repo](#) |
+| 👥 Cadastro de Users | CRUD completo com feedback visual e integração com API. | Node, Express, React  | [Ver Repo](#) |
 
 ---
 
