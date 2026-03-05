@@ -48,7 +48,7 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 
 | Projeto | Descrição | Techs | Link |
 | :--- | :--- | :--- | :--- |
-| 🍔 DevBurger | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL | [Ver Repo](#) |
+| 🍔 DevBurger | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL | [Ver Repo](https://github.com/Gabriieljesus/Devburger-Api) |
 | 👥 Cadastro de Users | CRUD completo com feedback visual e integração com API. | Node, Express, React  | [Ver Repo](#) |
 
 ---
