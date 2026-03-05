@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Tenho 19 anos, sou natural da Bahia ☀️ e estou em transição profissional para a área de Desenvolvimento Full Stack.
+Tenho 19 anos, sou natural da Bahia e estou em transição profissional para a área de Desenvolvimento Full Stack.
 
 Atualmente estou imerso no ecossistema JavaScript através do DevClub, aprofundando meus conhecimentos em **React, Node.js,TypeScript, APIs REST e Arquitetura de Software**.
 
