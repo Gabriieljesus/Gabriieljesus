@@ -46,10 +46,11 @@ Minha experiência anterior no mercado de trabalho me ajudou a desenvolver respo
 
 ### 📂 Projetos em Destaque
 
-| Projeto | Descrição | Techs | Link |
-| :--- | :--- | :--- | :--- |
-| 🍔 DevBurger | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL
-| 👥 Cadastro de Users | CRUD completo com feedback visual e integração com API. | Node, Express, React
+| Projeto | Descrição | Techs |
+| :--- | :--- | :--- |
+| 💹 **DevBills** | Controle financeiro com gráficos, filtros e login Google (Firebase). | TypeScript, React, Node, MongoDB |
+| 🍔 **DevBurger** | Sistema Full Stack de pedidos com Painel Admin e Autenticação. | React, Node, PostgreSQL |
+| 👥 **Cadastro de Users** | CRUD completo com feedback visual e integração com API. | React, Node, Express |
 
 ---
 
